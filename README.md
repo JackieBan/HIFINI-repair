@@ -1,6 +1,6 @@
 ## HIFINI 音乐磁场签到脚本（2026年1月最终优化版）
 
-首先感谢[fengwenhua](https://github.com/fengwenhua/hifini_sign_in)大佬和[KunCheng-He](https://github.com/KunCheng-He/hifini-sign-in?tab=readme-ov-file)大佬提供的代码，在很长一段时间无私贡献脚本进行使用，此版本是在网站进行迁移后解决脚本失效和优化签到结果输出
+首先感谢[fengwenhua](https://github.com/fengwenhua/hifini_sign_in)大佬和[KunCheng-He](https://github.com/KunCheng-He/hifini-sign-in?tab=readme-ov-file)大佬提供的代码，在很长一段时间无私贡献脚本进行使用，此版本是在网站进行迁移后解决脚本失效和优化签到结果输出[HIFINI](https://hifiti.com/)
 
 #### 核心优化：
 
